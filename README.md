@@ -1,1 +1,1 @@
-# jaruis---ai
+# jaruis-ai
