@@ -1,1 +1,1 @@
-# jaruis-ai
+# Jarvis-ai
